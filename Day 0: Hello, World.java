@@ -4,6 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+
 public class Solution {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in); // use the Scanner class to read from stdin
@@ -14,6 +15,6 @@ public class Solution {
 		System.out.println("Hello, World.");
       
 		// Write the second line of output
-        System.out.println("Welcome to 30 Days of Code!");
+        System.out.println(inputString);
 	}
 }
